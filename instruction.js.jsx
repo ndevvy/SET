@@ -24,7 +24,7 @@ window.Instruction = React.createClass({
             </div>
             <div className="not-set example">
               <img src="./images/not-a-set.jpg"/>
-              Example of an invalid set. We have different types of pepper,
+              Example of an invalid set. We have different types of peppers,
               different counts, and different colors of pepper, but
               two of the backgrounds are the same color.
             </div>
